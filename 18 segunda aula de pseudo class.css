@@ -1,0 +1,54 @@
+*{ /*n quer as props do navegador*/
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+
+
+ul{
+	list-style-position: inside;
+}
+
+/*ul li:nth-of-type(2){ /*ataca a 2 das li's de acordo ocm tipo
+	color: red;
+}
+
+/*ul li:nth-child(3){ /*3 filho da ul de acordo com filho
+	color: blue;
+} */
+
+.box{
+	width: 100%;
+}
+
+.box div{
+	float: left;
+	width: 33.3%;
+	height: 400px;
+	background-color: red;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+
+/*.box div:last-of-type,.box p:last-of-type{ Ultimo elemento do msm tipo
+	background-color: green;
+}*/
+
+
+/*.box div:last-child{
+	color: rgba(255, 255, 255, 1);
+}*/
+
+/*.box div:not(.one){ todas menos a one
+	background-color: gold;
+}*/
+
+/*p:empty{ pega o paragrafo vazio
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}*/
