@@ -21,7 +21,22 @@
       <br>
       server os:<br>
         > debian (main) libvirt.
-      <b>
+      <br>
+      <br>
+      computer settings: <br>
+        > Host: B450M Steel Legend
+        > CPU: AMD Ryzen 5 5600 (12) @ 3.500GHz 
+        > GPU: NVIDIA GeForce GTX 1050 Ti (yet ㅠㅠ) 
+        > Memory: 32014MiB 
+      <br>
+      <br>
+      server settings: <br>
+       > CPU: Intel i5-7400 (4) @ 3.500GHz 
+       > GPU: AMD ATI Radeon 550
+       > Memory: 15912MiB
+      <br>
+      <br>
+     <b>
     </samp>
   </p>
 </p>
