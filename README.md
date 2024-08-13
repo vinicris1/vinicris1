@@ -2,8 +2,6 @@
  <img src="https://github.com/vinicris1/vinicris1/blob/main/assets/pic.jpg" width="500" align="left">
   <p float="left">
     <samp>
-      <br>
-      <br>
       about me:
       <br>
              - brazilian, pt-br + eng.<br>
